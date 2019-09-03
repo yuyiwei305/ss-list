@@ -4578,6 +4578,7 @@ var rules = [
   "||shwchurch.org",
   "||siddharthasintent.org",
   "||sierrafriendsoftibet.org",
+  "||signalprocessingsociety.org",
   "||simplecd.org",
   "||sipml5.org",
   "||sitemaps.org",
