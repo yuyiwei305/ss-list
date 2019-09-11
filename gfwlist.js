@@ -4515,6 +4515,7 @@ var rules = [
   "||pornbase.org",
   "||postimg.org",
   "||powerphoto.org",
+  "||primefaces.org",
   "||prism-break.org",
   "||pttvan.org",
   "||pureinsight.org",
