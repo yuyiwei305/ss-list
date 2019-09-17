@@ -1870,6 +1870,7 @@ var rules = [
   "||pandora.com",
   "||panoramio.com",
   "||paradisepoker.com",
+  "||parastorage.com",
   "||parkansky.com",
   "||partycasino.com",
   "||partypoker.com",
