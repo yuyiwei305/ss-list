@@ -3771,6 +3771,7 @@ var rules = [
   "||mullvad.net",
   "||musicade.net",
   "||muzi.net",
+  "||myfonts.net",
   "||mynetav.net",
   "||mypop3.net",
   "||naitik.net",
