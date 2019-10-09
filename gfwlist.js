@@ -598,7 +598,6 @@ var rules = [
   "||ccthere.com",
   "||ccue.com",
   "||cdcparty.com",
-  "||cdn-apple.com",
   "||cdninstagram.com",
   "||cdw.com",
   "||centerforhumanreprod.com",
