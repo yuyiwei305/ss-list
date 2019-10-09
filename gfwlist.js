@@ -390,7 +390,6 @@ var rules = [
   "||apkplz.com",
   "||apkpure.com",
   "||aplusvpn.com",
-  "||apple.com",
   "||appledaily.com",
   "||appshopper.com",
   "||appspot.com",
