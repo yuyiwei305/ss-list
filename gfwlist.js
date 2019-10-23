@@ -411,6 +411,7 @@ var rules = [
   "||atlaspost.com",
   "||atnext.com",
   "||audionow.com",
+  "||auth0.com",
   "||autodraw.com",
   "||av.com",
   "||av-e-body.com",
