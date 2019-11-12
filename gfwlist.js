@@ -4046,6 +4046,7 @@ var rules = [
   "||areca-backup.org",
   "||art4tibet1998.org",
   "||artofpeacefoundation.org",
+  "||arxiv.org",
   "||asacp.org",
   "||asiaharvest.org",
   "||assimp.org",
