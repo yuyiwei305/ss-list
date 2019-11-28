@@ -960,6 +960,7 @@ var rules = [
   "||fmnnow.com",
   "||fnac.com",
   "||focusvpn.com",
+  "||fontawesome.com",
   "||foolsmountain.com",
   "||fooooo.com",
   "||footwiball.com",
