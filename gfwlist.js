@@ -3817,6 +3817,7 @@ var rules = [
   "||proxypy.net",
   "||proxytunnel.net",
   "||prozz.net",
+  "||pulsesecure.net",
   "||pureconcepts.net",
   "||pximg.net",
   "||quantumbooter.net",
